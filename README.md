@@ -1,3 +1,4 @@
+![Meridux Portfolio](./portfolio-hero.png)
 # Meridux Portfolio
 
 Intelligent automation workflows built for small businesses.
