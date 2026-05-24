@@ -9,7 +9,7 @@ Founder: Dr. Aamir Farooq | AI Automation Consultant
 
 ## Featured Case Studies
 
-### 1. NEX Clinical Intelligence System
+### 1. Meridux PatientCore - A Clinical Intelligence System
 
 **What it is:** AI-powered patient intake and triage automation platform.
 
@@ -46,7 +46,7 @@ Founder: Dr. Aamir Farooq | AI Automation Consultant
 - Provides real-time visibility into clinic operations
 
 **Download case study:** 
-[NEX_Clinical_Intelligence_Portfolio.pdf](./NEX_Clinical_Intelligence_Portfolio.pdf)
+[Meridux_PatientCore_Clinical_Intelligence_Portfolio.pdf](./Meridux_PatientCore_Clinical_Intelligence_Portfolio.pdf)
 
 ---
 
