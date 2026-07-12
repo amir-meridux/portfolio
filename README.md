@@ -48,6 +48,9 @@ Founder: Dr. Aamir Farooq | AI Automation Consultant
 **Download case study:** 
 [Meridux_PatientCore_Clinical_Intelligence_Portfolio.pdf](./Meridux_PatientCore_Clinical_Intelligence_Portfolio.pdf)
 
+**Download Portfolio:** 
+[Dr_Aamir_Farooq_Engineering_Portfolio.pdf]
+(./Dr_Aamir_Farooq_Engineering_Portfolio.pdf) 
 ---
 
 ## Upcoming Case Studies
